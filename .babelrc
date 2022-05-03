@@ -1,0 +1,5 @@
+//compiles our code
+{
+    "presets": ["next/babel"],
+    "plugins": []
+}
